@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "idroid";
-    src: url("../fonte/idroid.otf") format("opentype");
+    src: url("../fontes/idroid.otf") format("opentype");
 
 }
 
@@ -17,7 +17,7 @@
 
     --fonte-padrao: arial, verdana, helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
-    --fonte-idroid: "idroid ", cursive;
+    --fonte-idroid: "idroid", cursive;
 
 
 
